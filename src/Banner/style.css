@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap');
+
+.banner-section{
+    background-image: url('./bg-img.webp');
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    
+}
+.banner-subsection{
+    width: 20rem;
+    color: rgb(17, 17, 17);
+    margin-left: 15rem;
+}
+.shopping-btn{
+    background-color: white;
+    padding: .8rem 1.5rem;
+    border-radius: 30px;
+    border: none;
+    margin: .5rem 0;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+}
+.template-head{
+    font-family: 'Poppins', sans-serif;
+    margin: .8rem 0 .5rem;
+    font-size: 2.3rem;
+    font-weight: 700;
+    line-height: 40px;
+}
+.question-head{
+    margin: 0;
+}
+
+.card{
+    width: 18rem;
+    margin: 1rem;
+}
+.card-image{
+    background-image: url('./bg-img.webp');
+    height: 10rem;
+    background-size: cover;
+    text-align: left;
+    
+}
+.headphones-info{
+    background-color: #FDC66A;
+    padding: 1rem;
+    text-align: left;
+}
+.card-head{
+    margin: 0;
+}
+.card-info{
+    font-size: .8rem;
+    color: white;
+}
+.headphones-text {
+    background-color: #FDC66A;
+    display: inline-block;
+    padding: .5rem;
+    border-radius: 15px;
+    margin-left: .5rem;
+    font-size: .8rem;
+    
+}
+/* --------ProductList Component---------  */
+.cards{
+    display: flex;
+    justify-content: center;
+}
+.section4{
+    text-align: center;
+    padding: 3rem;
+}

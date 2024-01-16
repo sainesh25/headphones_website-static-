@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+
+.section2{
+    text-align: left;
+    width: 60vw;
+    margin: 4rem auto;
+}
+.heading{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+.heading-subinfo{
+    font-size: .9rem;
+}
+.section{
+    
+}
